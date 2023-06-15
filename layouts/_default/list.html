@@ -1,0 +1,13 @@
+{{ define "main" }}
+    <ul class="post-list">
+        {{ range .Data.Pages }}
+            {{ if not .Params.draft }}
+                <li class="post-list-item">
+                    <h2 class="post-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+                    <p class="post-meta">{{ .Date.Format "January 2, 2006" }}</p>
+                    <div class="post-summary">{{ .Summary }}</div>
+                </li>
+            {{ end }}
+        {{ end }}
+    </ul>
+{{ end }}
