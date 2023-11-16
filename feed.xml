@@ -3,7 +3,7 @@
     <title>Fiulo&#x27;s Blog</title>
     <link href="https://blog.fiulo.com/feed.xml" rel="self" />
     <link href="https://blog.fiulo.com" />
-    <updated>2023-11-15T23:35:16+00:00</updated>
+    <updated>2023-11-16T00:01:34+00:00</updated>
     <author>
         <name>Fiulo</name>
     </author>
@@ -16,15 +16,18 @@
         </author>
         <link href="https://blog.fiulo.com/youtubes-ai-transparency-policy.html"/>
         <id>https://blog.fiulo.com/youtubes-ai-transparency-policy.html</id>
+        <media:content url="https://blog.fiulo.com/media/posts/20/youtube-transparency.jpg" medium="image" />
 
-        <updated>2023-11-15T23:35:16+00:00</updated>
+        <updated>2023-11-16T00:01:34+00:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://blog.fiulo.com/media/posts/20/youtube-transparency.jpg" alt="" />
                     Ever wondered what happens when the unstoppable force of AI creativity meets the immovable object of digital transparency? YouTube recently announced a major policy change that will impact AI-generated content. This has the potential to completely transform the creator landscape. Some see it as a bold move towards more authenticity&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://blog.fiulo.com/media/posts/20/youtube-transparency.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Ever wondered what happens when the unstoppable force of AI creativity meets the immovable object of digital transparency?</p>
 <p>YouTube recently announced a major policy change that will impact AI-generated content. This has the potential to completely transform the creator landscape.</p>
 <p>Some see it as a bold move towards more authenticity on the platform, while others worry it could limit creative opportunities.</p>
