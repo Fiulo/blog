@@ -14,7 +14,11 @@
 </url>
 <url>
 <loc>https://blog.fiulo.com/claude-21.html</loc>
-<lastmod>2023-11-23T16:47:16+00:00</lastmod>
+<lastmod>2023-11-23T21:37:15+00:00</lastmod>
+<image:image>
+<image:loc>https://blog.fiulo.com/media/posts/22/captioned.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>https://blog.fiulo.com/dall-e-3-no-more-struggling-with-prompts.html</loc>
@@ -168,7 +172,11 @@
 </url>
 <url>
 <loc>https://blog.fiulo.com/stable-video-diffusion.html</loc>
-<lastmod>2023-11-23T19:47:16+00:00</lastmod>
+<lastmod>2023-11-23T21:37:35+00:00</lastmod>
+<image:image>
+<image:loc>https://blog.fiulo.com/media/posts/23/captioned.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>https://blog.fiulo.com/style-tuning-in-midjourney.html</loc>

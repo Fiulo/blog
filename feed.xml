@@ -3,7 +3,7 @@
     <title>Fiulo&#x27;s Blog</title>
     <link href="https://blog.fiulo.com/feed.xml" rel="self" />
     <link href="https://blog.fiulo.com" />
-    <updated>2023-11-23T19:47:16+00:00</updated>
+    <updated>2023-11-23T21:37:35+00:00</updated>
     <author>
         <name>Fiulo</name>
     </author>
@@ -16,15 +16,18 @@
         </author>
         <link href="https://blog.fiulo.com/stable-video-diffusion.html"/>
         <id>https://blog.fiulo.com/stable-video-diffusion.html</id>
+        <media:content url="https://blog.fiulo.com/media/posts/23/captioned.png" medium="image" />
 
-        <updated>2023-11-23T19:47:16+00:00</updated>
+        <updated>2023-11-23T21:37:35+00:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://blog.fiulo.com/media/posts/23/captioned.png" alt="" />
                     Unveiling the Future of Visual Storytelling: Stable Video Diffusion In the rapidly evolving world of artificial intelligence, a new breakthrough has emerged: Stable Video Diffusion. This AI model ushers in an era where creating realistic videos from simple text prompts is no longer a figment of science fiction, but a&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://blog.fiulo.com/media/posts/23/captioned.png" class="type:primaryImage" alt="" /></p>
                 <h1 id="unveiling-the-future-of-visual-storytelling-stable-video-diffusion">Unveiling the Future of Visual Storytelling: Stable Video Diffusion</h1>
 <p>In the rapidly evolving world of artificial intelligence, a new breakthrough has emerged: Stable Video Diffusion. This AI model ushers in an era where creating realistic videos from simple text prompts is no longer a figment of science fiction, but a tangible reality. Drawing its roots from the widely acclaimed Stable Diffusion model, which changed the landscape of image generation, Stable Video Diffusion takes a bold step further by venturing into the dynamic realm of moving images. From crafting mesmerizing short films to designing intricate video game environments, the potential of this technology knows no bounds.</p>
 <h2 id="early-access-and-research-insights">Early Access and Research Insights</h2>
@@ -64,15 +67,18 @@
         </author>
         <link href="https://blog.fiulo.com/claude-21.html"/>
         <id>https://blog.fiulo.com/claude-21.html</id>
+        <media:content url="https://blog.fiulo.com/media/posts/22/captioned.png" medium="image" />
 
-        <updated>2023-11-23T16:47:16+00:00</updated>
+        <updated>2023-11-23T21:37:15+00:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://blog.fiulo.com/media/posts/22/captioned.png" alt="" />
                     Anthropic, a leading AI research company, has unveiled a significant update to its advanced language model, Claude. The latest version, Claude 2.1, boasts several groundbreaking advancements that push the boundaries of language generation. In this article, we will delve into the key enhancements of Claude 2.1, including its 200K token&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://blog.fiulo.com/media/posts/22/captioned.png" class="type:primaryImage" alt="" /></p>
                 <p>Anthropic, a leading AI research company, has unveiled a significant update to its advanced language model, Claude. The latest version, Claude 2.1, boasts several groundbreaking advancements that push the boundaries of language generation. In this article, we will delve into the key enhancements of Claude 2.1, including its 200K token context window and lower model hallucination rates, and explore their implications for the future of AI technology.</p>
 <h2 id="enhanced-context-window">Enhanced Context Window</h2>
 <p>One of the standout features of Claude 2.1 is its expanded context window, which now encompasses an impressive 200K tokens. This substantial increase in context length empowers Claude 2.1 with a deeper understanding of the conversational context, enabling it to generate highly relevant and coherent responses. The larger context window allows the model to capture intricate details, subtle nuances, and long-term dependencies within conversations, resulting in more informative and engaging interactions.</p>
