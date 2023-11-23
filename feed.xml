@@ -3,7 +3,7 @@
     <title>Fiulo&#x27;s Blog</title>
     <link href="https://blog.fiulo.com/feed.xml" rel="self" />
     <link href="https://blog.fiulo.com" />
-    <updated>2023-11-23T21:37:35+00:00</updated>
+    <updated>2023-11-23T22:01:56+00:00</updated>
     <author>
         <name>Fiulo</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://blog.fiulo.com/stable-video-diffusion.html</id>
         <media:content url="https://blog.fiulo.com/media/posts/23/captioned.png" medium="image" />
 
-        <updated>2023-11-23T21:37:35+00:00</updated>
+        <updated>2023-11-23T22:01:56+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.fiulo.com/media/posts/23/captioned.png" alt="" />
@@ -55,7 +55,7 @@
 <li><strong>Ethical Considerations:</strong> As with any powerful tool, the ability to create realistic videos comes with the responsibility to use it ethically, making the need for robust governance in AI-generated content more crucial than ever.</li>
 </ul>
 <h2 id="conclusion">Conclusion</h2>
-<p>Stable Video Diffusion stands at the forefront of a revolution in video generation. While still in its infancy, the model’s potential applications suggest a future rich with immersive and hyper-realistic videos. As we continue to develop and refine this technology, we edge closer to a world where the lines between created and captured content blur, offering a canvas limited only by the imagination. With</p>
+<p>Stable Video Diffusion stands at the forefront of a revolution in video generation. While still in its infancy, the model’s potential applications suggest a future rich with immersive and hyper-realistic videos. As we continue to develop and refine this technology, we edge closer to a world where the lines between created and captured content blur, offering a canvas limited only by the imagination.</p>
 
             ]]>
         </content>
