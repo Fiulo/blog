@@ -3,7 +3,7 @@
     <title>Fiulo&#x27;s Blog</title>
     <link href="https://blog.fiulo.com/feed.xml" rel="self" />
     <link href="https://blog.fiulo.com" />
-    <updated>2023-11-23T22:01:56+00:00</updated>
+    <updated>2023-11-24T00:14:10+00:00</updated>
     <author>
         <name>Fiulo</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://blog.fiulo.com/stable-video-diffusion.html</id>
         <media:content url="https://blog.fiulo.com/media/posts/23/captioned.png" medium="image" />
 
-        <updated>2023-11-23T22:01:56+00:00</updated>
+        <updated>2023-11-24T00:14:10+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.fiulo.com/media/posts/23/captioned.png" alt="" />
@@ -31,7 +31,7 @@
                 <h1 id="unveiling-the-future-of-visual-storytelling-stable-video-diffusion">Unveiling the Future of Visual Storytelling: Stable Video Diffusion</h1>
 <p>In the rapidly evolving world of artificial intelligence, a new breakthrough has emerged: Stable Video Diffusion. This AI model ushers in an era where creating realistic videos from simple text prompts is no longer a figment of science fiction, but a tangible reality. Drawing its roots from the widely acclaimed Stable Diffusion model, which changed the landscape of image generation, Stable Video Diffusion takes a bold step further by venturing into the dynamic realm of moving images. From crafting mesmerizing short films to designing intricate video game environments, the potential of this technology knows no bounds.</p>
 <h2 id="early-access-and-research-insights">Early Access and Research Insights</h2>
-<p>For those eager to dive into the world of Stable Video Diffusion, there is an opportunity to be among the first to explore its capabilities. Users can sign up for a waitlist to gain exclusive access to the tool upon its release. This early access will allow users to test the boundaries of video generation and be at the forefront of this innovative technology.</p>
+<p>For those eager to dive into the world of Stable Video Diffusion, there is an opportunity to be among the first to explore its capabilities. Users can access the code at <a href="https://github.com/Stability-AI/generative-models">https://github.com/Stability-AI/generative-models</a>, and the weights at <a href="https://huggingface.co/stabilityai/stable-video-diffusion-img2vid-xt">https://huggingface.co/stabilityai/stable-video-diffusion-img2vid-xt</a>. This early access will allow users to test the boundaries of video generation and be at the forefront of this innovative technology.</p>
 <p>In addition to the anticipation of hands-on experience, the research that underpins Stable Video Diffusion is openly shared with the public. The project’s whitepaper details the model’s architecture, training methods, and potential applications, providing a comprehensive understanding of its inner workings. The whitepaper is accessible to all and can be found <a href="https://static1.squarespace.com/static/6213c340453c3f502425776e/t/655ce779b9d47d342a93c890/1700587395994/stable_video_diffusion.pdf">here</a>, offering a deep dive into the science behind the AI.</p>
 <h2 id="applications--benefits">Applications &amp; Benefits</h2>
 <p>The implications of Stable Video Diffusion are vast and varied, touching numerous aspects of media production and consumption:</p>
