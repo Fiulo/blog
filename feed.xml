@@ -3,7 +3,7 @@
     <title>Fiulo&#x27;s Blog</title>
     <link href="https://blog.fiulo.com/feed.xml" rel="self" />
     <link href="https://blog.fiulo.com" />
-    <updated>2023-12-18T22:44:11+00:00</updated>
+    <updated>2023-12-18T22:47:26+00:00</updated>
     <author>
         <name>Fiulo</name>
     </author>
@@ -16,15 +16,18 @@
         </author>
         <link href="https://blog.fiulo.com/202312imagen-2-unveiledhtml.html"/>
         <id>https://blog.fiulo.com/202312imagen-2-unveiledhtml.html</id>
+        <media:content url="https://blog.fiulo.com/media/posts/28/captioned.png" medium="image" />
 
-        <updated>2023-12-18T22:44:11+00:00</updated>
+        <updated>2023-12-18T22:47:26+00:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://blog.fiulo.com/media/posts/28/captioned.png" alt="" />
                     Google Cloud, a leading provider of cloud computing services and a pioneer in the field of artificial intelligence (AI), has unveiled an exciting upgrade to its image-generation capabilities with the introduction of Imagen 2. This groundbreaking text-to-image technology represents a significant leap forward in the field of AI, pushing the&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://blog.fiulo.com/media/posts/28/captioned.png" class="type:primaryImage" alt="" /></p>
                 <p>Google Cloud, a leading provider of cloud computing services and a pioneer in the field of artificial intelligence (AI), has unveiled an exciting upgrade to its image-generation capabilities with the introduction of Imagen 2. This groundbreaking text-to-image technology represents a significant leap forward in the field of AI, pushing the boundaries of what is possible in terms of generating realistic and visually stunning images from textual descriptions.</p>
 <p>Imagen 2 builds upon the success of its predecessor, Imagen, which was introduced in 2022 and quickly gained recognition for its ability to generate high-quality images from text. However, Imagen 2 takes things to the next level, offering a number of key improvements and advancements.</p>
 <p>In this article we will look at how it compares to the competition, and how to access it.</p>
