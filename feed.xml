@@ -3,12 +3,61 @@
     <title>Fiulo&#x27;s Blog</title>
     <link href="https://blog.fiulo.com/feed.xml" rel="self" />
     <link href="https://blog.fiulo.com" />
-    <updated>2024-01-11T11:52:39+00:00</updated>
+    <updated>2024-01-17T21:50:44+00:00</updated>
     <author>
         <name>Fiulo</name>
     </author>
     <id>https://blog.fiulo.com</id>
 
+    <entry>
+        <title>Copilot Pro Released</title>
+        <author>
+            <name>Fiulo</name>
+        </author>
+        <link href="https://blog.fiulo.com/copilot-pro-released.html"/>
+        <id>https://blog.fiulo.com/copilot-pro-released.html</id>
+
+        <updated>2024-01-17T21:50:44+00:00</updated>
+            <summary>
+                <![CDATA[
+                    Copilot Pro is a premium subscription offering that enhances your productivity with priority access to GPT-4 and GPT-4 Turbo, faster AI image creation, and additional features. It is available for educational faculty and staff as a paid add-on for Microsoft 365 A3/A5 and Office 365&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Copilot Pro is a premium subscription offering that enhances your productivity with priority access to GPT-4 and GPT-4 Turbo, faster AI image creation, and additional features. It is available for educational faculty and staff as a paid add-on for Microsoft 365 A3/A5 and Office 365 A3/A5.</p>
+<h3 id="purpose-and-target-audience">Purpose and target audience</h3>
+<p>The target audience for Copilot Pro includes individuals who want to boost their creativity and productivity using AI-powered features. The subscription is designed for personal and family users who are already subscribed to Microsoft 365 or Office 365.</p>
+<h3 id="release-and-availability">Release and Availability</h3>
+<p>Copilot Pro was launched on January 15, 2024, and is priced at $20 per month per user. It is available as a paid add-on for existing subscribers of Microsoft 365 A3/A5 and Office 365 A3/A5.</p>
+<h3 id="key-features">Key Features</h3>
+<p>Copilot Pro offers a range of features that go beyond the standard Copilot experience:</p>
+<ol>
+<li><strong>Single AI experience across devices</strong>: The AI experience is consistent across devices, understanding your context on the web, on your PC, and across your apps.</li>
+<li><strong>Customizable Copilot GPTs</strong>: Users can customize the behavior of Copilot on specific topics.</li>
+<li><strong>Integration with Office software</strong>: Copilot Pro integrates with Excel, PowerPoint, and Word, allowing users to draft documents, summarize emails, create presentations, and more.</li>
+<li><strong>Access to Copilot GPT Builder</strong>: This feature is not mentioned in the provided search results, but it is listed as a key feature in the question.</li>
+<li><strong>Search results</strong>: The search results provided do not directly address this feature, but they do discuss other features and aspects of Copilot Pro.</li>
+</ol>
+<p>Copilot Pro subscribers can access the service via the Copilot app on the web, in select Microsoft 365 apps, and on platforms such as Windows and mobile devices.</p>
+<h2 id="copilot-mobile-app">Copilot Mobile App</h2>
+<p>The Copilot Mobile App is now available for both Android and iOS devices, allowing users to access the power of Copilot on the go.</p>
+<h3 id="copilot-in-microsoft-365-mobile-app">Copilot in Microsoft 365 Mobile App</h3>
+<p>Copilot Pro brings advanced features and capabilities to users across their devices, providing seamless integration with the app for Android and iOS.</p>
+<h3 id="integration-with-the-app-for-android-and-ios">Integration with the App for Android and iOS</h3>
+<p>The Copilot app connects users to GPT-4 and Dall-E 3, enabling them to sync chats and queries from their phone to their Windows PC.</p>
+<h2 id="comparison-with-other-copilot-offerings">Comparison with Other Copilot Offerings</h2>
+<h3 id="copilot-pro-vs-copilot-azure">Copilot Pro vs. Copilot Azure</h3>
+<p>Copilot Pro is a premium subscription for individuals that provides a higher tier of service for AI, while Copilot Azure is designed for customer service use cases and integrates with customer relationship management (CRM) software.</p>
+<h3 id="copilot-pro-vs-copilot-for-microsoft-365">Copilot Pro vs. Copilot for Microsoft 365</h3>
+<p>Copilot Pro is a premium subscription for personal use, while Copilot for Microsoft 365 is designed for businesses and can be extended and customized to fit specific organizational needs.</p>
+<h2 id="conclusion">Conclusion</h2>
+<p>The Copilot Mobile App offers a convenient way for users to access the power of Copilot on their Android and iOS devices. With seamless integration and advanced features, it provides users with a powerful AI companion on the go.</p>
+<p>omating complex workflows, and adding new features through plugins.</p>
+
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>The GPT Store - Tailor-Made AI Tools for Everything</title>
         <author>
@@ -496,49 +545,6 @@
 </ul>
 <p><strong>Call to action</strong></p>
 <p>If you are looking for a way to create an app quickly and easily, then AppSlap is the perfect tool for you. Sign up for a free account today and start creating your own apps!</p>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Adobe Acquires Rephrase.ai</title>
-        <author>
-            <name>Fiulo</name>
-        </author>
-        <link href="https://blog.fiulo.com/adobe-acquires-rephraseai.html"/>
-        <id>https://blog.fiulo.com/adobe-acquires-rephraseai.html</id>
-
-        <updated>2023-11-25T00:14:48+00:00</updated>
-            <summary>
-                <![CDATA[
-                    Adobe has announced the acquisition of Rephrase.ai, a text-to-video tech company. The acquisition will boost Adobe’s AI tools suite and help the company to create more immersive and engaging content. Rephrase.ai’s technology can be used to create videos from text, images, and audio. The company’s&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Adobe has announced the acquisition of Rephrase.ai, a text-to-video tech company. The acquisition will boost Adobe’s AI tools suite and help the company to create more immersive and engaging content.</p>
-<p>Rephrase.ai’s technology can be used to create videos from text, images, and audio. The company’s AI-powered platform makes it easy for users to create high-quality videos without any prior experience.</p>
-<p>Adobe plans to integrate Rephrase.ai’s technology into its Creative Cloud suite. This will give users access to a powerful new tool for creating videos.</p>
-<p>The acquisition of Rephrase.ai is a significant step forward for Adobe’s AI tools suite. The company is committed to providing users with the best possible tools for creating content. With the addition of Rephrase.ai’s technology, Adobe is well-positioned to continue to lead the way in the AI-powered content creation space.</p>
-<p><strong>How Rephrase.ai’s Technology Works</strong></p>
-<p>Rephrase.ai’s technology uses a combination of artificial intelligence and machine learning to create videos from text, images, and audio. The company’s AI-powered platform analyzes the input and then generates a video that is both visually and aurally appealing.</p>
-<p>Rephrase.ai’s technology is able to create videos that are both informative and engaging. The company’s platform makes it easy for users to create videos that are tailored to their specific needs.</p>
-<p><strong>The Benefits of Using Rephrase.ai’s Technology</strong></p>
-<p>There are many benefits to using Rephrase.ai’s technology. Some of the benefits include:</p>
-<ul>
-<li><strong>Easy to use:</strong> Rephrase.ai’s platform is easy to use, even for users who have no prior experience with video creation.</li>
-<li><strong>Versatile:</strong> Rephrase.ai’s technology can be used to create a variety of different types of videos, including explainer videos, product demos, and marketing videos.</li>
-<li><strong>Affordable:</strong> Rephrase.ai’s platform is affordable, making it a great option for businesses of all sizes.</li>
-</ul>
-<p><strong>Some of the Potential Applications of Rephrase.ai’s Technology</strong></p>
-<p>Rephrase.ai’s technology has a wide range of potential applications. Some of the potential applications include:</p>
-<ul>
-<li><strong>Education:</strong> Rephrase.ai’s technology can be used to create educational videos that are both informative and engaging.</li>
-<li><strong>Marketing:</strong> Rephrase.ai’s technology can be used to create marketing videos that are both persuasive and effective.</li>
-<li><strong>Entertainment:</strong> Rephrase.ai’s technology can be used to create entertaining videos that are both visually and aurally appealing.</li>
-</ul>
-<p><strong>Conclusion</strong></p>
-<p>The acquisition of Rephrase.ai is a significant step forward for Adobe’s AI tools suite. The company is committed to providing users with the best possible tools for creating content. With the addition of Rephrase.ai’s technology, Adobe is well-positioned to continue to lead the way in the AI-powered content creation space.</p>
 
             ]]>
         </content>
